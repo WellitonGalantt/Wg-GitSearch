@@ -21,4 +21,4 @@
 
 ## Quer dar uma olhado como ficou?
 
-### Acesse esse link: <https://wg-cart.vercel.app/>
+### Acesse esse link: <https://wg-git-search.vercel.app/>
