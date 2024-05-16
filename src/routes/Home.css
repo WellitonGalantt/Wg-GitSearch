@@ -1,0 +1,7 @@
+
+.home-box-todo{
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+  padding: 4rem 0 1rem;
+}
